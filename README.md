@@ -22,11 +22,8 @@
 
 
 
-<br/>
-
-
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raissa-hendler/)](https://www.linkedin.com/in/raissa-hendler/)
+[![Linkedin](https://img.shields.io/badge/-raissa-hendler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raissa-hendler/)](https://www.linkedin.com/in/raissa-hendler/)
 [![Gmail Badge](https://img.shields.io/badge/-raissa.hendler.felisberto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raissa.hendler.felisberto@gmail.com)](mailto:raissa.hendler.felisberto@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/hendlerfrai)
