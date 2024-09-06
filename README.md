@@ -1,11 +1,9 @@
 ## Raissa Hendler
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
-- Técnica em Informática para Internet
-- Acadêmica em Psicologia
+- Técnica em Informática para Internet (IFC)
+- Acadêmica em Psicologia (UNESC)
 - A procura de oportunidades para aplicar meus conhecimentos tech
 
 ## Minhas Skills
